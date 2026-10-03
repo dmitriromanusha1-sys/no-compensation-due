@@ -1,0 +1,64 @@
+﻿No Compensation Due — для авторов видео и стримов
+==================================================
+
+Снимать прохождения, обзоры и стримы по игре — можно и нужно. Спасибо!
+Пожалуйста, прочитайте два ограничения: они не наши, а авторов материалов,
+которые использованы в игре.
+
+1. ЗВУКИ И МУЗЫКА
+   Звуковые эффекты и музыка игры созданы в ElevenLabs (elevenlabs.io) на
+   бесплатном тарифе. Его условия разрешают только некоммерческое
+   использование и требуют указывать ElevenLabs.
+   - В описании видео укажите: «Звуки и музыка: ElevenLabs (elevenlabs.io)».
+   - Монетизацию, рекламные интеграции и сбор донатов на видео со звуком
+     игры вы включаете на свой риск: звуки на это не лицензированы.
+     Безопаснее — видео без монетизации.
+
+2. СВЕРЛИЛЬНЫЙ СТАНОК — НЕ ОБРАБАТЫВАТЬ НЕЙРОСЕТЯМИ
+   Модель сверлильного станка («Drill Press», автор Scanamatics) выложена с
+   пометкой NoAI: автор запрещает подавать её на вход генеративному ИИ.
+   Кадры, где станок виден (даже частично, на заднем плане), НЕЛЬЗЯ:
+   - загружать в ChatGPT, Midjourney и другие генераторы — в том числе для
+     превью и обложек;
+   - прогонять через ИИ-апскейл, ИИ-улучшение, ИИ-удаление фона,
+     генеративную заливку и т. п.
+   Обычный монтаж (обрезка, текст, цветокоррекция) — можно.
+   Для ИИ-превью выбирайте кадры без станка.
+
+Полный список авторов моделей и лицензий — в игре: Главное меню → Титры.
+Ссылку на игру в описании видео — будем рады.
+
+3. ГОТОВЫЙ ТЕКСТ ДЛЯ ОПИСАНИЯ — скопируйте и вставьте целиком:
+
+Игра: No Compensation Due — ASPECT
+Скачать: https://dmitriromanusha1-sys.github.io/aspect-games-/nocomp.html
+Авторы моделей и лицензии (CC BY 4.0 / CC0): https://github.com/dmitriromanusha1-sys/no-compensation-due/blob/main/CREDITS.txt
+Персонаж: Meshy (meshy.ai)
+Звуки и музыка: ElevenLabs (elevenlabs.io)
+
+--------------------------------------------------
+
+No Compensation Due — for video creators and streamers
+
+Let's plays, reviews and streams are welcome. Two restrictions come from the
+authors of assets used in the game:
+
+1. SOUND AND MUSIC were made with ElevenLabs (elevenlabs.io) on the free plan:
+   non-commercial use only, attribution required. Credit "Sound and music:
+   ElevenLabs (elevenlabs.io)" in the description. Monetizing videos with the
+   game's audio is at your own risk — the sounds are not licensed for it.
+
+2. THE DRILL PRESS model (by Scanamatics) is marked NoAI. Do not feed any
+   frame showing it into generative AI tools (image generators, AI upscalers,
+   AI background removal, generative fill) — including for thumbnails.
+   Regular editing is fine.
+
+Full asset credits: Main menu → Credits.
+
+3. READY-TO-PASTE DESCRIPTION — copy the whole block:
+
+Game: No Compensation Due — ASPECT
+Download: https://dmitriromanusha1-sys.github.io/aspect-games-/nocomp.html
+Asset credits and licenses (CC BY 4.0 / CC0): https://github.com/dmitriromanusha1-sys/no-compensation-due/blob/main/CREDITS.txt
+Character: Meshy (meshy.ai)
+Sound and music: ElevenLabs (elevenlabs.io)
